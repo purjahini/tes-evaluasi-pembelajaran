@@ -1,0 +1,7 @@
+PR sistem TES ONLINE
+
+1. Ganti password admin tidak berjalan
+2. halaman siswa tidak responsive
+3. edit kelas belum ditambah kelas (VII dll)
+4. bank soal belum general antar guru yang mata pelajaran nya sama
+5. pencarian di halam soal masih ancur (fix)
